@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "651672155091",
+    "firebase_url": "https://bracketstop-1557352245107.firebaseio.com",
+    "project_id": "bracketstop-1557352245107",
+    "storage_bucket": "bracketstop-1557352245107.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:651672155091:android:92df1f91822c26e2",
+        "android_client_info": {
+          "package_name": "com.example.bracketstop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "651672155091-o7pr6slqrt8gfp8ldf5brjqbcrrs1ait.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFXsig9_4AWB6d1IkmT91PQOBBwECRYho"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "651672155091-o7pr6slqrt8gfp8ldf5brjqbcrrs1ait.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

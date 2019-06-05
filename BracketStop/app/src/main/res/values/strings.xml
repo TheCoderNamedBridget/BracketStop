@@ -1,0 +1,35 @@
+<resources>
+    <string name="admininstrator_option">Admin</string>
+    <string name="spectator_option">Viewer</string>
+    <string name="title_app">Bracket Stop</string>
+    <string name="back_button">Back</string>
+    <string name="welcome">Welcome</string>
+    <string name="create_event">Create Event</string>
+    <string name="number_of_brackets">Number Of Brackets</string>
+    <string name="champion">Champion</string>
+    <string name="semfinalist">Semifinalist</string>
+    <string name="enter_filename">Enter Name of File</string>
+    <string name="entered_filename">Enter</string>
+    <string name="file_from_google_drive">Select File Google Drive</string>
+    <string name="save_button">Save</string>
+    <string name="load_button">Load</string>
+    <string name="select_a_sport">Select Sport</string>
+    <string name="wrestling">Wrestling</string>
+    <string name="enter_weight_class">Enter Weight Class</string>
+    <string name="add_person">Add</string>
+    <string name="enter_wrestler_name">Enter Player\'s Name</string>
+    <string name="enter_wrestler_grade">Enter Grade</string>
+    <string name="enter_wrestlers_school">Enter School</string>
+    <string name="done_adding_wrestlers">Done</string>
+    <string name="finalist">Finalist</string>
+    <string name="cons">Consolation Bracket</string>
+    <string name="first_place">1st Place</string>
+    <string name="save_results">Save</string>
+    <string name="win_by_pin">Pin</string>
+    <string name="win_by_points">Points</string>
+    <string name="view_match_order">Match Order</string>
+    <string name="show_results_four_man">Show Results</string>
+    <string name="second_place">2nd Place</string>
+    <string name="third_place">3rd Place</string>
+    <string name="fourth_place">4th Place</string>
+</resources>
